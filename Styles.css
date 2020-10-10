@@ -1,7 +1,26 @@
+body {
+    background-color: black;
+  }
 
+p {
 
-#myMain{
-    margin-top: 25px;
-}
+    color: #000080;
+  
+  }
+  
+  a[href] {
+  
+  
+    color: orangered;
+  
+  }
 
-opacity:1;
+     p {
+  
+    background: blueviolet;
+  
+  
+    text-decoration: none;
+  
+  
+  }
