@@ -11,16 +11,20 @@ p {
   a[href] {
   
   
-    color: orangered;
+    color: aqua;
   
   }
 
      p {
   
-    background: blueviolet;
-  
+    background: black;
+    color: orangered;
   
     text-decoration: none;
   
   
+  }
+
+  p.impact {
+    font-family: Charcoal, sans-serif;
   }
